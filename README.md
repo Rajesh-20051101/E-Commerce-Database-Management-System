@@ -32,6 +32,13 @@ including customers, products, orders, payments, and inventory.
 - Window Functions
 - CASE WHEN
 
+## Entity Relationship Diagram (ERD)
+
+The following diagram illustrates the relationships between
+the tables in the E-Commerce Database Management System.
+
+![E-Commerce Database ER Diagram](ER_Diagram.png)  
+
 ## Project File
 - project.sql: Database creation and sample data.
 
